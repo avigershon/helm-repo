@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   node-red:
   - apiVersion: v1
-    created: 2018-02-11T18:12:43.030499265+02:00
+    created: 2018-02-11T18:17:07.449685944+02:00
     description: A Helm chart for Kubernetes
-    digest: 0169e42d8c9c4f5dde157b2da04cf3efbe79461777ab679d4fc66705c432c311
+    digest: 23ec7195de7bd0b0b844457d6c9cc0396614ac22d566c9daeae8d893d821e70c
     name: node-red
     urls:
     - node-red-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-11T18:12:43.029382275+02:00
+generated: 2018-02-11T18:17:07.44853804+02:00
